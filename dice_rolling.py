@@ -14,7 +14,7 @@ def rolldice():
    dice1= random.randint(1,6)
    dice2= random.randint(1,6)
 
-   return [dice1,dice2]
+   return (dice1,dice2)
 
 
 def startgame():
