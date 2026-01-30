@@ -7,7 +7,6 @@ def format_name(first_name, last_name):
 
 first_name = input("please type your first name ")
 last_name = input("please type your last name ")
-
 full_name = format_name(first_name, last_name)
 
 print(full_name)
